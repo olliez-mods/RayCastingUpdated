@@ -29,9 +29,8 @@ Controls for the client:
    hold down "Shift" while creating the wall (you can make only one end not snap by only holding down "Shift" when you press OR realease "Q")
   
   To delete a wall:
-  
-   Deleting walls is dont by hovering over the wall in the main veiw (the one that looks 3D) and pressing "D", it DOES NOT happen
-   in the minimap
+      Deleting walls is dont by hovering over the wall in the main veiw (the one that looks 3D) and pressing "D", it DOES NOT happen
+      in the minimap
   
   
   
