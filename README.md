@@ -1,5 +1,8 @@
 # RayCastingUpdated
 
+On the high chance that the windows exe doesn't work, here's a video of the project working 
+(https://youtu.be/Yh76KJq3gJE)
+
 This program was built using SFML, C++, and my own library: SFAS (an addon to SFML).
 
 I used SFML 3.0.0
