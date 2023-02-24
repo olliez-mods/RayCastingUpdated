@@ -18,17 +18,30 @@ Controls for the client:
   Arrow keys to look around and move forward/back.
   
   To build a wall:
-  * select wanted texture from the texture window
-  * go to the little minimap (bottom right) in the main window 
-  * hold down 'Q' this will be the starting point ofd the wall
-  * move the mouse to where you want the end point of the wall to be
-  * let go of 'Q'.
+  
+    * select wanted texture from the texture window
+    * go to the little minimap (bottom right) in the main window 
+    * hold down 'Q' this will be the starting point ofd the wall
+    * move the mouse to where you want the end point of the wall to be
+    * let go of 'Q'.
 
+    The ends of walls will automaticly snap to eachother if they are close enough, if you don't want this to happen
+    hold down "Shift" while creating the wall (you can make only one end not snap by only holding down "Shift" when you press OR realease "Q")
+  
+  To delete a wall:
+  
+    Deleting walls is dont by hovering over the wall in the main veiw (the one that looks 3D) and pressing "D", it DOES NOT happen
+    in the minimap
+  
+  
+  
+  
   The slider adjusts your height (kinda looks cool).
 
   The input feild above the 'Connect' button is where you put the IP of a server, (not required to use program) 
   if you leave if blank it will automaticly fill in with "localhost" when you click "connect", if connection is
   successful the connect button will turn green.
+  
   
  
 Controls for the server:
