@@ -29,9 +29,10 @@ Controls for the client:
     4. move the mouse to where you want the end point of the wall to be
     5. let go of 'Q'
     
-    The ends of walls will automaticly snap to eachother if they are close enough, if you don't want this to happen
-    hold down "Shift" while creating the wall (you can make only one end not snap by only holding down "Shift"
-    when you press OR realease "Q")
+    The ends of walls will automaticly snap to eachother if they are close enough.
+    If you don't want this to happen, hold down "Shift" while creating the wall.
+    you can make only one end not snap by only holding down "Shift", when you press or realease "Q"
+    
   To delete a wall:
   
     Deleting walls is dont by hovering over the wall in the main veiw (the one that looks 3D) and 
