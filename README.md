@@ -50,6 +50,7 @@ Controls for the client:
   <br/>
 Controls for the server:
   
-  Run the exe.
+  Run the exe
+  
   That's it, the server runs of port 3388
  
