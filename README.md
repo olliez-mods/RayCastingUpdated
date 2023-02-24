@@ -41,15 +41,15 @@ Controls for the client:
   The slider adjusts your height (kinda looks cool).
   <br/>
   <br/>
-  The input feild above the 'Connect' button is where you put the IP of a server, (not required to use program) 
+  The input feild above the 'Connect' button is where you put the IP of a server.
   if you leave if blank it will automaticly fill in with "localhost" when you click "connect", if connection is
   successful the connect button will turn green.
+  Remember: you don't need to use the multiplayer option.
   <br/>
   <br/>
   <br/>
 Controls for the server:
   
   Run the exe.
-  <br/>
   That's it, the server runs of port 3388
  
