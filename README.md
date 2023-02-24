@@ -20,11 +20,11 @@ Controls for the client:
   
   To build a wall:
   
-  * select wanted texture from the texture window
-  * go to the little minimap (bottom right) in the main window 
-  * hold down 'Q' this will be the starting point ofd the wall
-  * move the mouse to where you want the end point of the wall to be
-  * let go of 'Q'
+  * 1. select wanted texture from the texture window
+  * 2. go to the little minimap (bottom right) in the main window 
+  * 3. hold down 'Q' this will be the starting point ofd the wall
+  * 4. move the mouse to where you want the end point of the wall to be
+  * 5. let go of 'Q'
   
   The ends of walls will automaticly snap to eachother if they are close enough, if you don't want this to happen
   hold down "Shift" while creating the wall (you can make only one end not snap by only holding down "Shift" when you press OR realease "Q")
