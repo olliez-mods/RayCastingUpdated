@@ -9,6 +9,9 @@ This built successfully on windows 11 and M2 macbook.
 You can find the windows builds in the Builds folder.
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 This project is split into two parts, the client, and the server.
 
 The server is not required to use the program, only requird if you want to play together.
