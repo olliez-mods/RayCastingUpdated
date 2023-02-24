@@ -1,17 +1,38 @@
 # RayCastingUpdated
 
-This program was built using SFML and C++, and my own SFAS (an addon to SFML) librarys
+This program was built using SFML, C++, and my own library: SFAS (an addon to SFML).
 
-If you can get it to build successfully congrats.
-I used SFML 3.0.0 a snapshot vershot verson, as currently fully released versions don't work on apple sillicon
+I used SFML 3.0.0
 
-Controls:
+This built successfully on windows 11 and M2 macbook.
 
-  Arrow keys to look around and move forward/back
-  To build a wall, first select wanted texture from the texture window, then go to the little minimap (bottom right) and 
-  hold down 'Q' this will be the start point, move the mouse to where you want the end point of the wall to be and let go of 'Q'.
+You can find the windows builds in the Builds folder.
 
-  The slider adjusts your height (just kinda looks cool).T
 
-  he input feild above the 'Connect' button is where you put the IP 
-  of the server if you want to do that.
+This project is split into two parts, the client, and the server.
+
+The server is not required to use the program, only requird if you want to play together.
+
+Controls for the client:
+
+  Arrow keys to look around and move forward/back.
+  
+  To build a wall:
+  *select wanted texture from the texture window
+  *go to the little minimap (bottom right) in the main window 
+  *hold down 'Q' this will be the starting point ofd the wall
+  *move the mouse to where you want the end point of the wall to be
+  *let go of 'Q'.
+
+  The slider adjusts your height (kinda looks cool).
+
+  The input feild above the 'Connect' button is where you put the IP of a server, (not required to use program) 
+  if you leave if blank it will automaticly fill in with "localhost" when you click "connect", if connection is
+  successful the connect button will turn green.
+  
+ 
+Controls for the server:
+  
+  Run the exe.
+  That's it, the server runs of port 3388
+ 
