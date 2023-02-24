@@ -34,8 +34,9 @@ Controls for the client:
     when you press OR realease "Q")
   To delete a wall:
   
-    Deleting walls is dont by hovering over the wall in the main veiw (the one that looks 3D) and pressing "D", it DOES NOT happen
-    in the minimap
+    Deleting walls is dont by hovering over the wall in the main veiw (the one that looks 3D) and 
+    pressing "D". 
+    It WILL NOT work in the minimap
     
   The slider adjusts your height (kinda looks cool).
   <br/>
