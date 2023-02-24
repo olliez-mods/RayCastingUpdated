@@ -39,9 +39,7 @@ Controls for the client:
   in the minimap
   <br/>
   <br/>
-  <br/>
   The slider adjusts your height (kinda looks cool).
-  <br/>
   <br/>
   <br/>
   The input feild above the 'Connect' button is where you put the IP of a server, (not required to use program) 
@@ -50,9 +48,9 @@ Controls for the client:
   <br/>
   <br/>
   <br/>
-  <br/>
 Controls for the server:
   
   Run the exe.
+  <br/>
   That's it, the server runs of port 3388
  
